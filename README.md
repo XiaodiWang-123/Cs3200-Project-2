@@ -148,10 +148,10 @@ Xiaodi Wang
 
 ## AI Disclosure
 
-This project was completed with the assistance of AI tools (ChatGPT) for guidance on:
+AI tools (ChatGPT) were used in this project for guidance and learning purposes, including:
 
-* MongoDB schema design
-* Query formulation
-* Debugging and error resolution
+- Understanding MongoDB schema design concepts  
+- Clarifying query syntax and structure  
+- Assisting with debugging errors  
 
-All work was reviewed, modified, and understood by the author before submission.
+All final design decisions, implementation, and submitted work were completed and fully understood by the author.
